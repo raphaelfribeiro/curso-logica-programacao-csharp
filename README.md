@@ -7,13 +7,13 @@ Link: https://www.udemy.com/course/logica-de-programacao-csharp
 
 - Introdução à programação
 - Expressões
--- Aritméticas
--- Comparativas
--- Lógicas
+  - Aritméticas
+  - Comparativas
+  - Lógicas
 - Estrutura sequencial
--- Entrada de dados (comando de leitura)
--- Processamento de dados (comando de atribuição)
--- Saída de dados (comando de escrita)
+  - Entrada de dados (comando de leitura)
+  - Processamento de dados (comando de atribuição)
+  - Saída de dados (comando de escrita)
 - Estrutura condicional (if/else)
 - Estruturas repetitivas (while, for)
 - Vetores
