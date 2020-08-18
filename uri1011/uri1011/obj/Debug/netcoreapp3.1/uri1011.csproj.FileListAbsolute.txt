@@ -1,0 +1,12 @@
+C:\Users\rapha\OneDrive\Documentos\curso-logica-programacao-csharp\uri1011\uri1011\bin\Debug\netcoreapp3.1\uri1011.exe
+C:\Users\rapha\OneDrive\Documentos\curso-logica-programacao-csharp\uri1011\uri1011\bin\Debug\netcoreapp3.1\uri1011.deps.json
+C:\Users\rapha\OneDrive\Documentos\curso-logica-programacao-csharp\uri1011\uri1011\bin\Debug\netcoreapp3.1\uri1011.runtimeconfig.json
+C:\Users\rapha\OneDrive\Documentos\curso-logica-programacao-csharp\uri1011\uri1011\bin\Debug\netcoreapp3.1\uri1011.runtimeconfig.dev.json
+C:\Users\rapha\OneDrive\Documentos\curso-logica-programacao-csharp\uri1011\uri1011\bin\Debug\netcoreapp3.1\uri1011.dll
+C:\Users\rapha\OneDrive\Documentos\curso-logica-programacao-csharp\uri1011\uri1011\bin\Debug\netcoreapp3.1\uri1011.pdb
+C:\Users\rapha\OneDrive\Documentos\curso-logica-programacao-csharp\uri1011\uri1011\obj\Debug\netcoreapp3.1\uri1011.AssemblyInfoInputs.cache
+C:\Users\rapha\OneDrive\Documentos\curso-logica-programacao-csharp\uri1011\uri1011\obj\Debug\netcoreapp3.1\uri1011.AssemblyInfo.cs
+C:\Users\rapha\OneDrive\Documentos\curso-logica-programacao-csharp\uri1011\uri1011\obj\Debug\netcoreapp3.1\uri1011.csproj.CoreCompileInputs.cache
+C:\Users\rapha\OneDrive\Documentos\curso-logica-programacao-csharp\uri1011\uri1011\obj\Debug\netcoreapp3.1\uri1011.dll
+C:\Users\rapha\OneDrive\Documentos\curso-logica-programacao-csharp\uri1011\uri1011\obj\Debug\netcoreapp3.1\uri1011.pdb
+C:\Users\rapha\OneDrive\Documentos\curso-logica-programacao-csharp\uri1011\uri1011\obj\Debug\netcoreapp3.1\uri1011.genruntimeconfig.cache
