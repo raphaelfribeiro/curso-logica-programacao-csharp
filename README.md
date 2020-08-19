@@ -1,9 +1,8 @@
-# Curso: C# primeiros passos - Lógica de Programação e Algoritmos
+# Exercícios resolvidos
 
-Neste repositório estão os exercícios resolvidos no curso ministrado pelo professor Dr. Nelio Alves.
-Link: https://www.udemy.com/course/logica-de-programacao-csharp
+Neste repositório estão os exercícios resolvidos, em linguagem C#, referente ao [curso](https://www.udemy.com/course/logica-de-programacao-csharp) ministrado pelo professor **Dr. Nelio Alves**: "C# primeiros passos: Lógica de Programação e Algoritmos".
 
-## Tópicos abordados no curso:
+## Tópicos abordados no curso
 
 - Introdução à programação
 - Expressões
